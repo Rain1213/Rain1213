@@ -9,8 +9,6 @@
 - ⚡ Fun fact: My favourite pass-time is Origami and Playing Tabla
 
 <br />
-<br/>
-
 
 ### Find me @:
 
@@ -23,24 +21,24 @@
 
 
 ### Languages :
-<img align="left" alt="Android" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" /> &nbsp; Android
+<img align="left" alt="Android" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" /> &nbsp; Android
 <br/>
-<img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> &nbsp; Java
+<img align="left" alt="Java" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> &nbsp; Java
 <br/>
-<img align="left" alt="C" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/c/c.png"/>&nbsp; C
+<img align="left" alt="C" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/c/c.png"/>&nbsp; C
 <br/>
-<img align="left" alt="C++" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png"/>&nbsp; C++
+<img align="left" alt="C++" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png"/>&nbsp; C++
 <br/>
-<img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp; HTML5
+<img align="left" alt="HTML5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp; HTML5
 <br/>
-<img align="left" alt="CSS3" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp; CSS3
+<img align="left" alt="CSS3" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp; CSS3
 <br/>
-<img align="left" alt="SQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp; MySQL
+<img align="left" alt="SQL" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp; MySQL
 <br/>
-<img align="left" alt="PHP" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png"/>&nbsp; PHP
+<img align="left" alt="PHP" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png"/>&nbsp; PHP
 <br/>
-<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>&nbsp; GitHub
+<img align="left" alt="GitHub" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>&nbsp; GitHub
 <br/>
 
 
