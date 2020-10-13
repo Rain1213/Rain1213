@@ -4,7 +4,7 @@
 ## Am I am 3rd Year CS Student
 - 🏫 Pursuing my Btech From Charusat University
 - 🔭 I’m currently working on a Crop Recommendation System [CRS]!
-- 🌱 I’m currently learning Adobe XD
+- 🌱 I’m currently learning Figma and Webflow
 - 🥅 Current Goals: Getting Regular with Leetcode 
 - ⚡ Fun fact: My favourite pass-time is Origami and Playing Tabla
 
