@@ -3,7 +3,7 @@
 
 ## Am I am 3rd Year CS Student
 - 🏫 Pursuing my Btech From Charusat University
-- 🔭 I’m currently working on a Crop Recommendation System [CRS]!
+- 🔭 I’m currently working on a Machine Management System !
 - 🌱 I’m currently learning Figma and Webflow
 - 🥅 Current Goals: Getting Regular with Leetcode 
 - ⚡ Fun fact: My favourite pass-time is Origami and Playing Tabla
@@ -48,17 +48,7 @@
 <br />
 
 ---
-<!---
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-1. ❗️ Closed issue [#1](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/1) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-2. 🎉 Merged PR [#2](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/2) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-3. 🗣 Commented on [#1](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/1) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 💪 Opened PR [#6](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web/pull/6) in [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web)
-5. 🗣 Commented on [#249](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-</details>
--->
 <details>
   <summary>:zap: Github Stats</summary>
 
@@ -66,5 +56,5 @@
 
 </details>
 
-[CRS]: https://github.com/Rain1213/CRS
+
 [leetcode]: https://leetcode.com/user3166h/
