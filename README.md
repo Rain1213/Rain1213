@@ -10,17 +10,6 @@
 
 <br />
 
-## Find me @:
-
-<img align="left" alt="user3166h" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" />&nbsp; https://leetcode.com/user3166h/
-<br /><br/>
-
-<img align="left" alt="rish.balse@gmail.com" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg" />&nbsp; rish.balse@gmail.com
-<br />
-<br/>
-<br/>
-
-
 ## Languages :
 <img align="left" alt="Android" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" /> &nbsp; Android
 <br/><br/>
