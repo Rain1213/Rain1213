@@ -1,7 +1,7 @@
 ### Hello There <img width="16px" src="https://emojis.slackmojis.com/emojis/images/1511368775/3217/bluelightsaber.png?1511368775" /> <img width="16px" src="https://emojis.slackmojis.com/emojis/images/1513363813/3290/evillightsaber.png?1513363813" /> General Kenobi <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1526741134/3958/storm_trooper.gif?1526741134" />
 
 
-## Am I am 3rd Year CS Student
+## I am a 3rd Year CS Student
 - 🏫 Pursuing my Btech From Charusat University
 - 🔭 I’m currently working on a Machine Management System !
 - 🌱 I’m currently learning Figma and Webflow
