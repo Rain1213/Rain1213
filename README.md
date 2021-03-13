@@ -10,8 +10,12 @@
 
 <br />
 
-## Languages :
+## Languages/Tools :
 <img align="left" alt="Android" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" /> &nbsp; Android
+<br/><br/>
+<img align="left" alt="Android" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" /> &nbsp; Adobe Illustrator
+<br/><br/>
+<img align="left" alt="Android" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" /> &nbsp; Matlab
 <br/><br/>
 <img align="left" alt="Webflow" width="20px" src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" /> &nbsp; Webflow
 <br/><br/>
