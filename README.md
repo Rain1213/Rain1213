@@ -4,7 +4,7 @@
 ## I am a 3rd Year CS Student
 - 🏫 Pursuing my Btech From Charusat University
 - 🔭 I’m currently working on a Twitter Feedback Segregation System !
-- 🌱 I’m currently learning Figma and Webflow
+- 🌱 I’m currently learning React
 - 🥅 Current Goals: Getting Regular with Leetcode 
 - ⚡ Fun fact: My favourite pass-time is Origami and Playing Tabla
 
