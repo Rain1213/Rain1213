@@ -3,8 +3,8 @@
 
 ## I am a 3rd Year CS Student
 - 🏫 Pursuing my Btech From Charusat University
-- 🔭 I’m currently working on a Twitter Feedback Segregation System !
-- 🌱 I’m currently learning React
+- 🔭 I’m actively looking for Research Internship Opportunities
+- 🌱 I’m currently learning R Studio
 - 🥅 Current Goals: Getting Regular with Leetcode 
 - ⚡ Fun fact: My favourite pass-time is Origami and Playing Tabla
 
@@ -16,6 +16,8 @@
 <img align="left" alt="Android" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" /> &nbsp; Adobe Illustrator
 <br/><br/>
 <img align="left" alt="Android" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" /> &nbsp; Matlab
+<br/><br/>
+<img align="left" alt="React" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" /> &nbsp; ReactJS
 <br/><br/>
 <img align="left" alt="Webflow" width="20px" src="https://www.vectorlogo.zone/logos/webflow/webflow-icon.svg" /> &nbsp; Webflow
 <br/><br/>
@@ -35,6 +37,7 @@
 <br/><br/>
 <img align="left" alt="Firebase" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png"/>&nbsp; Firebase
 <br/><br/>
+<img align="left" alt="Figma" width="20px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /> &nbsp; Figma
 
 
 <br />
@@ -42,12 +45,11 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Rain1213's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rain1213&show_icons=true&hide_border=true&theme=tokyonight" />
+:zap: Github Stats
 
-</details>
+  <img align="left" alt="Rain1213's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rain1213&show_icons=true&hide_border=true&theme=gotham" />
+
 
 
 [leetcode]: https://leetcode.com/user3166h/
