@@ -1,10 +1,10 @@
 ### Hello There <img width="16px" src="https://emojis.slackmojis.com/emojis/images/1511368775/3217/bluelightsaber.png?1511368775" /> <img width="16px" src="https://emojis.slackmojis.com/emojis/images/1513363813/3290/evillightsaber.png?1513363813" /> General Kenobi <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1526741134/3958/storm_trooper.gif?1526741134" />
 
 
-## I am a 3rd Year CS Student
-- 🏫 Pursuing my Btech From Charusat University
+## I am a Final Year CS Student
+- 🏫 Pursuing my BTech From Charusat University
 - 🔭 I’m actively looking for Research Internship Opportunities
-- 🌱 I’m currently learning R Studio
+- 🌱 I’m currently learning Neural Networks
 - 🥅 Current Goals: Getting Regular with Leetcode 
 - ⚡ Fun fact: My favourite pass-time is Origami and Playing Tabla
 
@@ -48,8 +48,7 @@
 
 :zap: Github Stats
 
-  <img align="left" alt="Rain1213's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rain1213&show_icons=true&hide_border=true&theme=gotham" />
-
-
+  ![Rain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rain1213&show_icons=true&theme=gotham)
+  
 
 [leetcode]: https://leetcode.com/user3166h/
