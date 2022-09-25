@@ -3,10 +3,10 @@
 
 ## I am a Final Year CS Student
 - 🏫 Pursuing my BTech From Charusat University
-- 🔭 I’m actively looking for Research Internship Opportunities
-- 🌱 I’m currently learning Neural Networks
-- 🥅 Current Goals: Getting Regular with Leetcode 
+- 🔭 I’m actively looking for Research Opportunities
+- 🌱 I’m currently learning Machine Learning Algorithms
 - ⚡ Fun fact: My favourite pass-time is Origami and Playing Tabla
+<!--- - 🥅 Current Goals: Getting Regular with Leetcode -->
 
 <br />
 
