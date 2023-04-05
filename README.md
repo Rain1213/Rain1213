@@ -1,10 +1,10 @@
 ### Hello There <img width="16px" src="https://emojis.slackmojis.com/emojis/images/1511368775/3217/bluelightsaber.png?1511368775" /> <img width="16px" src="https://emojis.slackmojis.com/emojis/images/1513363813/3290/evillightsaber.png?1513363813" /> General Kenobi <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1526741134/3958/storm_trooper.gif?1526741134" />
 
 
-## I am a Final Year CS Student
-- 🏫 Working as Data Engineer at IITM
+## I am a Working Professional
+- 🏫 Working as Data Engineer at IIT Madras
 - 🔭 I’m actively looking for Research Opportunities
-- 🌱 I’m currently learning Machine Learning Algorithms
+- 🌱 I’m currently learning NLP and Data Analytics
 - ⚡ Fun fact: My favourite pass-time is Origami and Playing Tabla
 <!--- - 🥅 Current Goals: Getting Regular with Leetcode -->
 
