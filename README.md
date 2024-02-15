@@ -1,16 +1,25 @@
-### Hello There <img width="16px" src="https://emojis.slackmojis.com/emojis/images/1511368775/3217/bluelightsaber.png?1511368775" /> <img width="16px" src="https://emojis.slackmojis.com/emojis/images/1513363813/3290/evillightsaber.png?1513363813" /> General Kenobi <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1526741134/3958/storm_trooper.gif?1526741134" />
+### Hello There <img width="16px" src="https://emojis.slackmojis.com/emojis/images/1511368775/3217/bluelightsaber.png?1511368775" /> <img width="16px" src="https://emojis.slackmojis.com/emojis/images/1513363813/3290/evillightsaber.png?1513363813" /> <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1526741134/3958/storm_trooper.gif?1526741134" />
 
 
-## I am a Working Professional
-- 🏫 Working as Data Engineer at IIT Madras
-- 🔭 I’m actively looking for Research Opportunities
-- 🌱 I’m currently learning NLP and Data Analytics
-- ⚡ Fun fact: My favourite pass-time is Origami and Playing Tabla
-<!--- - 🥅 Current Goals: Getting Regular with Leetcode -->
+I'm a Data Engineer and Researcher at IIT Madras, passionate about leveraging data to uncover insights and drive innovation. With a strong foundation in computer engineering and a penchant for research, I'm on a journey to explore the vast realms of HCI and Data Analytics.
 
-<br />
+- 🎓 B.Tech in Computer Engineering from Charotar University of Science and Technology.
+- 🔍 Currently seeking exciting research opportunities.
+- 📚 Learning HCI and Mathematics for AI/ML.
+- 🎼 Outside tech, I find joy in Origami and playing the Tabla.
+
+
+## Achievements & Contributions
+
+- 🏆 ACM ITiCSE and COMPUTE 2023 Conference Publications.
+- 💡 Led projects on deep learning models and exploratory data analysis at ICSR IIT Madras in the realm of Education Technology.
+- 🌌 NASA Space Apps Hackathon Global Nominee.
+- 📖 NPTEL Course Topper in Python for Data Science, Machine Learning, and more.
+
 
 ## Languages/Tools :
+<img align="left" alt="Python" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" /> &nbsp; Python
+<br/><br/>
 <img align="left" alt="Android" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" /> &nbsp; Android
 <br/><br/>
 <img align="left" alt="Android" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" /> &nbsp; Adobe Illustrator
