@@ -1,7 +1,7 @@
 ### Hello There <img width="16px" src="https://emojis.slackmojis.com/emojis/images/1511368775/3217/bluelightsaber.png?1511368775" /> <img width="16px" src="https://emojis.slackmojis.com/emojis/images/1513363813/3290/evillightsaber.png?1513363813" /> <img width="20px" src="https://emojis.slackmojis.com/emojis/images/1526741134/3958/storm_trooper.gif?1526741134" />
 
 
-I'm a Data Engineer and Researcher at IIT Madras, passionate about leveraging data to uncover insights and drive innovation. With a strong foundation in computer engineering and a penchant for research, I'm on a journey to explore the vast realms of HCI and Data Analytics.
+I'm a Data Engineer and Researcher at IIT Madras, passionate about leveraging data to uncover insights and drive innovation. With a strong foundation in computer engineering and a penchant for research, I'm on a journey to explore the vast realms of Human-AI Interaction and Data Analytics.
 
 - 🎓 B.Tech in Computer Engineering from Charotar University of Science and Technology.
 - 🔍 Currently seeking exciting research opportunities.
@@ -12,7 +12,7 @@ I'm a Data Engineer and Researcher at IIT Madras, passionate about leveraging da
 ## Achievements & Contributions
 
 - 🏆 ACM ITiCSE and COMPUTE 2023 Conference Publications.
-- 💡 Led projects on deep learning models and exploratory data analysis at ICSR IIT Madras in the realm of Education Technology.
+- 💡 Led projects on deep learning models and exploratory data analysis at IIT Madras in the realm of Education Technology.
 - 🌌 NASA Space Apps Hackathon Global Nominee.
 - 📖 NPTEL Course Topper in Python for Data Science, Machine Learning, and more.
 
@@ -47,17 +47,3 @@ I'm a Data Engineer and Researcher at IIT Madras, passionate about leveraging da
 <img align="left" alt="Firebase" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png"/>&nbsp; Firebase
 <br/><br/>
 <img align="left" alt="Figma" width="20px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /> &nbsp; Figma
-
-
-<br />
-<br />
-
----
-
-
-:zap: Github Stats
-
-  ![Rain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rain1213&show_icons=true&theme=gotham)
-  
-
-[leetcode]: https://leetcode.com/user3166h/
